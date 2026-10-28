@@ -1,0 +1,27 @@
+# Ignorar artefactos generados por Visual Studio y .NET
+.vs/
+**/.vs/
+**/bin/
+**/obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.cache
+*.pdb
+*.db
+*.sqlite
+*.log
+
+# Ignorar archivos de compilación y publicación del proyecto de ejemplo
+*.dll
+*.exe
+*.runtimeconfig.json
+*.deps.json
+*.staticwebassets.*
+
+# Ignorar archivos generados del documento del proyecto
+DocGenerator/*.docx
+DocGenerator/*.png
+DocGenerator/bin/
+DocGenerator/obj/

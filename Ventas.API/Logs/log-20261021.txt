@@ -1,0 +1,11 @@
+2026-10-21 19:13:02.925 -06:00 [INF] Starting web host
+2026-10-21 19:13:17.345 -06:00 [INF] HTTP GET /api/Categoria responded 200 in 4247.6421 ms
+2026-10-21 19:17:40.847 -06:00 [INF] Starting web host
+2026-10-21 19:17:56.708 -06:00 [INF] Starting web host
+2026-10-21 19:18:04.867 -06:00 [INF] HTTP GET /api/Categoria responded 200 in 476.5680 ms
+2026-10-21 19:55:40.468 -06:00 [INF] Starting web host
+2026-10-21 20:07:41.407 -06:00 [INF] Starting web host
+2026-10-21 20:29:02.432 -06:00 [INF] Starting web host
+2026-10-21 20:29:13.865 -06:00 [INF] HTTP GET /api/Categoria responded 401 in 4.2622 ms
+2026-10-21 20:29:16.496 -06:00 [INF] HTTP GET /api/Categoria responded 401 in 0.0751 ms
+2026-10-21 20:29:43.463 -06:00 [INF] HTTP GET /api/Categoria responded 401 in 0.0193 ms

@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Ventas.API/Ventas.API.csproj" />
+  <Project Path="Ventas.Application/Ventas.Application.csproj" Id="d477d292-6342-4812-b4bb-1bd3ffe8839a" />
+  <Project Path="Ventas.ConsoleApp/zVentas.ConsoleApp.csproj" Id="71b6f217-5370-4bfb-ad62-21dbb0682fb2" />
+  <Project Path="Ventas.Persistance/Ventas.Persistance.csproj" />
+  <Project Path="Ventas.Tests/Ventas.Tests.csproj" />
+</Solution>
